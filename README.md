@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**patrykmaron/patrykmaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hey 👋 , I'm Patryk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Engineer living in London, coding away most of the time with JavaScript / TypeScript.
+
+
+## 🚀 About Me
+I'm a pragmatic engineer with a preference on product-lead development. I like to solve problems and been trying to indie hack a little in my spare time.
+
+
+
+
+
